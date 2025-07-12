@@ -1,7 +1,6 @@
 # 🧮 Calculadora Científica con Flex y Bison
 
-### Alumno: Eduardo González  
-### Matrícula: 2213064505  
+### Alumno: Eduardo González   
 ### UEA: Traductores 25-P  
 ### Universidad Autónoma Metropolitana, Unidad Cuajimalpa
 
